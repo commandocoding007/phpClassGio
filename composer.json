@@ -6,6 +6,6 @@
     },
     autoload": {
     "psr-4": {
-        "Portal\\": "src/"
+        "commandocoding\giophpclass\\": "src/"
     }
 }
