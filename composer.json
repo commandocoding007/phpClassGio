@@ -1,0 +1,7 @@
+{
+    "name": "com.commandocoding/phpGnomeGioHelper",
+    "description": "wrapper around gnome desktop settings application gio",
+    "require": {
+        "php": ">=7.4"
+    }
+}
