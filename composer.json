@@ -1,11 +1,12 @@
 {
     "name": "com.commandocoding/php_gnome_gio_helper",
     "description": "wrapper around gnome desktop settings application gio",
-    "require": {
-        "php": ">=7.4"
-    },
+    "type": "library",
+    "license": "MIT",
     "autoload": {
-    "psr-4": {
-        "commandocoding\giophpclass\\": "src/"
-    }
+        "psr-4": {
+            "ComCommandocoding\\PhpGnomeGioHelper\\": "src/"
+        }
+    },
+    "require": {}
 }
