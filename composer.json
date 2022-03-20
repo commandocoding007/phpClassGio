@@ -3,5 +3,9 @@
     "description": "wrapper around gnome desktop settings application gio",
     "require": {
         "php": ">=7.4"
+    },
+    autoload": {
+    "psr-4": {
+        "Portal\\": "src/"
     }
 }
