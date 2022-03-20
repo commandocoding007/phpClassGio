@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.4"
     },
-    autoload": {
+    "autoload": {
     "psr-4": {
         "commandocoding\giophpclass\\": "src/"
     }
